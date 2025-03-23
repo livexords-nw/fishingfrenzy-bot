@@ -145,6 +145,10 @@ This bot is designed to save you time and streamline your gameplay—so you can 
 
 ---
 
+### 🔹 Want Free Proxies? You can obtain free proxies from [Webshare.io](https://www.webshare.io/).
+
+---
+
 ## 🛠️ Contributing
 
 This project is developed by **Livexords**. If you have suggestions, questions, or would like to contribute, feel free to reach out:
